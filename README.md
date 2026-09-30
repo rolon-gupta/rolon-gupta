@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Rolon
 
-### I am currently an MSc student at Imperial studying Statistics (General Stream). My favourite topics in statistics revolve around Bayesian Mathematics.
+### I am currently an MSc student at Imperial studying [Statistics (General Stream)](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/). My favourite topics in statistics revolve around Bayesian Mathematics.
 
 ### I really dislike Abstract maths topics like homomorphisms in Group theory and Complex analysis.
 
